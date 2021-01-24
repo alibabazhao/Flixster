@@ -6,7 +6,6 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ## Flix Part 1
 
 ### User Stories
-`TODO://` In the **User Stories section below**, add an `x` in the `-[ ]` like this `- [x]` for any user story you complete. (🚫 Remove this paragraph after after checking off completed user stories)
 
 #### REQUIRED (10pts)
 - [X] (10pts) User can view a list of movies (title, poster image, and overview) currently playing in theaters from the Movie Database API.
@@ -23,7 +22,9 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### App Walkthough GIF
 Here's a walkthrough of implemented user stories:
 
-<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough'><br>
+<img src='walkThrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ### Notes
 - Migrating projects to AndroidX [Setup](https://discussions.codepath.org/courses/android_university/questions/error-package-android-support-v7-app-does-not-exist-import-android-support-v7-app-appcompatactivity-)
